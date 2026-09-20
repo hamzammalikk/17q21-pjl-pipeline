@@ -38,7 +38,7 @@ Versions used: samtools 1.24, bcftools 1.24, bwa-mem2 2.2.1, fastp 1.3.7, PLINK 
 `run_pipeline.sh` assumes the project lives in `~/pjl_17q21`, so clone the repository there:
 
 ```bash
-git clone https://github.com/TODO-username/TODO-repository ~/pjl_17q21
+ git clone https://github.com/hamzammalikk/17q21-pjl-pipeline ~/pjl_17q21
 cd ~/pjl_17q21
 conda activate pjl17q21
 bash run_pipeline.sh
