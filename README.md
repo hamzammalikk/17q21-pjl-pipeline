@@ -2,8 +2,7 @@
 
 A complete, command-line workflow from public sequencing reads to annotated candidate variants, applied to the 17q12-q21 asthma locus (*ZPBP2*, *GSDMB*, *ORMDL3*, *GSDMA*, *IKZF3*) in 96 unrelated Punjabi individuals from Lahore (PJL) from the 1000 Genomes Project 30x high-coverage data (GRCh38, window `chr17:39,700,000-40,000,000`).
 
-Companion code for the preprint: **TODO: add title, link and DOI after posting on bioRxiv.**
-
+DOI: https://doi.org/10.5281/zenodo.23439017
 > **Status.** Every step was run and checked interactively while developing the analysis. The single script `run_pipeline.sh` was assembled from those steps and its syntax was checked, but it has **not yet been run from start to finish** on a clean machine. Please report any problems as GitHub issues.
 
 ## What the pipeline does
@@ -100,7 +99,7 @@ Please follow the terms of use of each resource. Only small derived tables are r
 
 ## How to cite
 
-TODO: add the preprint citation and, if you archive a release on Zenodo, the DOI.
+DOI: https://doi.org/10.5281/zenodo.23439017
 
 ## License
 
